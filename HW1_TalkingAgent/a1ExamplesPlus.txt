@@ -1,0 +1,43 @@
+import a1
+
+a1.three_x_cubed_plus_7(2)
+31
+
+a1.triple_up([2, 5, 1.5, 100, 3, 8, 7, 1, 1, 0, -2])
+[[2, 5, 1.5], [100, 3, 8], [7, 1, 1], [0, -2]]
+
+a1.mystery_code("abc Iz th1s Secure? n0, no, 9!")
+'NOP vM GU1F fRPHER? A0, AB, 9!'
+
+a1.future_tense(['Yesterday', 'I', 'ate', 'pasta', 'and', 'today', 'I', 'am', 'having', 'soup'])
+['Tomorrow',
+ 'I',
+ 'will',
+ 'eat',
+ 'pasta',
+ 'and',
+ 'tomorrow',
+ 'I',
+ 'will',
+ 'be',
+ 'having',
+ 'soup']
+
+a1.future_tense(['Life', 'is', 'good', 'now'])
+['Life', 'will', 'be', 'good', 'tomorrow']
+
+result1 = a1.three_x_cubed_plus_7(2)
+print(result1)
+31
+
+result2 = a1.triple_up([1, 2, 3, 4, 5, 'a', 'b', ['x', 'y'], ['z'], 'second from last', 'last'])
+print(result2)
+[[1, 2, 3], [4, 5, 'a'], ['b', ['x', 'y'], ['z']], ['second from last', 'last']]
+
+result3 = a1.mystery_code("abcde")
+print(result3)
+NOPQR
+
+result4 = a1.future_tense(['He','did','it','. ','He', 'ate', 'all', 'the', 'cookies'])
+print(result4)
+['He', 'will', 'do', 'it', '. ', 'He', 'will', 'eat', 'all', 'the', 'cookies']

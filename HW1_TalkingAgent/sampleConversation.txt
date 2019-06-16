@@ -1,0 +1,78 @@
+0A: Yuan: My name is Yuan, a service assistant.
+I was programmed by Ziyuan Wang (UWNetID: wangzi).
+If you don't like the way I deal, contact him at wangzi@uw.edu
+What kind of item you buy from our online market?
+Smartphone, Laptop or Headphone.
+
+0B: Steven: My name is Steven. I am a staff in University of Washington.
+I was programmed by Ye Jin. If you don't like the way I deal, please contact him at yjin2@uw.edu.
+Welcome to my sofa! Any questions?
+
+1A: Yuan: Please enter the right device name.
+
+1B: Steven: Laptop
+
+2A: Yuan: What is the problem about your Laptop?
+
+2B: Steven: My laptop system has problem
+
+3A: Yuan: Win 10 is include in the price,
+I will send you a guidance to install it.
+Do you have any problem about your laptop? Or change another item.
+
+3B: Steven: Headphone
+
+4A: Yuan: What is the problem about your Headphone?
+
+4B: Steven: My headphone has no sound
+
+5A: Yuan: Please double check if the headphone connect to your device.
+
+5B: Steven: My headphone needs to refund
+
+6A: Yuan: I will help you create a refund process
+What else can I help you on your headphone? Or change another item.
+
+6B: Steven: Smartphone
+
+7A: Yuan: What is the problem about your Smartphone?
+
+7B: Steven: My Samsung is broken.
+
+8A: Yuan: I will transfer the call to the Samsung service,
+they will solve your problem
+Is there any other thing I can help on your smartphone? Or change another item.
+
+8B: Steven: My Iphone has some problems.
+
+9A: Yuan: You can call Apple service for more information.
+Do you have any problem about your smartphone? Or change another item.
+
+9B: Steven: Laptop
+
+10A: Yuan: What is the problem about your Laptop?
+
+10B: Steven: My computer needs return
+
+11A: Yuan: I will create a new return requist, it will take serveral days to process
+What else can I help you on your laptop? Or change another item.
+
+11B: Steven: Headphone
+
+12A: Yuan: What is the problem about your Headphone?
+
+12B: Steven: My headphone needs to refund
+
+13A: Yuan: I will help you create a refund process
+Is there any other thing I can help on your headphone? Or change another item.
+
+13B: Steven: Smartphone
+
+14A: Yuan: What is the problem about your Smartphone?
+
+14B: Steven: My smartphone is broken.
+
+15A: Yuan: You can send it back and we will fix it.
+Do you have any problem about your smartphone? Or change another item.
+
+15B: Steven: Laptop

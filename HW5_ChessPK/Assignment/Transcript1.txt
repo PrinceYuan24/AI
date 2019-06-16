@@ -1,0 +1,2505 @@
+**** Baroque Chess Gamemaster v1.0-BETA *****
+
+The Gamemaster says, "Players, introduce yourselves."
+
+ (Playing WHITE:) I'm Stephen, a newbie Baroque Chess agent. I am created by Ye Jin. UW NETID yjin2. I am a character to play Baroque Chess
+
+ (Playing BLACK:) I'm Newman Barry, a newbie Baroque Chess agent.
+
+
+The Gamemaster says, "Let's Play!"
+
+The initial state is...
+
+c l i w k i l f 
+p p p p p p p p 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P P P P 
+F L I W K I L C 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 977
+
+N_STATIC_EVALS = 977
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9314 seconds out of
+
+1
+
+WHITE's move: the P at (6, 5) to (2, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 1: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p p p p p p 
+- - - - - P - - 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W K I L C 
+BLACK's move
+
+Time used in makeMove: 0.9306 seconds out of
+
+1
+
+BLACK's move: the p at (1, 3) to (3, 3).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 2: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - p p p p 
+- - - - - P - - 
+- - - p - - - - 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W K I L C 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 2163
+
+N_STATIC_EVALS = 2163
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9166 seconds out of
+
+1
+
+WHITE's move: the L at (7, 6) to (2, 1).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 3: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - p p p p 
+- L - - - P - - 
+- - - p - - - - 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W K I - C 
+BLACK's move
+
+Time used in makeMove: 0.9488 seconds out of
+
+1
+
+BLACK's move: the p at (3, 3) to (3, 1).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 4: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - p p p p 
+- - - - - P - - 
+- p - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W K I - C 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 2067
+
+N_STATIC_EVALS = 2067
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9097 seconds out of
+
+1
+
+WHITE's move: the C at (7, 7) to (7, 6).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 5: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - p p p p 
+- - - - - P - - 
+- p - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W K I C - 
+BLACK's move
+
+Time used in makeMove: 0.9723 seconds out of
+
+1
+
+BLACK's move: the p at (3, 1) to (3, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 6: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - p p p p 
+- - - - - - - - 
+- - - - - p - - 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W K I C - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 1857
+
+N_STATIC_EVALS = 1857
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9262 seconds out of
+
+1
+
+WHITE's move: the C at (7, 6) to (2, 1).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 7: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - p p p p 
+- C - - - - - - 
+- - - - - p - - 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W K I - - 
+BLACK's move
+
+Time used in makeMove: 0.8996 seconds out of
+
+1
+
+BLACK's move: the p at (3, 5) to (3, 1).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 8: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - p p p p 
+- - - - - - - - 
+- p - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W K I - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 1833
+
+N_STATIC_EVALS = 1833
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9255 seconds out of
+
+1
+
+WHITE's move: the I at (7, 5) to (7, 7).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 9: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - p p p p 
+- - - - - - - - 
+- p - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W K - - I 
+BLACK's move
+
+Time used in makeMove: 0.9542 seconds out of
+
+1
+
+BLACK's move: the p at (1, 7) to (5, 7).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 10: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - p p p - 
+- - - - - - - - 
+- p - - - - - - 
+- - - - - - - - 
+- - - - - - - p 
+P P P P P - P P 
+F L I W K - - I 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 1779
+
+N_STATIC_EVALS = 1779
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9115 seconds out of
+
+1
+
+WHITE's move: the K at (7, 4) to (7, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 11: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - p p p - 
+- - - - - - - - 
+- p - - - - - - 
+- - - - - - - - 
+- - - - - - - p 
+P P P P P - P P 
+F L I W - K - I 
+BLACK's move
+
+Time used in makeMove: 1.0059 seconds out of
+
+1
+
+BLACK's move: the p at (1, 6) to (4, 6).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 12: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - p p - - 
+- - - - - - - - 
+- p - - - - - - 
+- - - - - - p - 
+- - - - - - - p 
+P P P P P - P P 
+F L I W - K - I 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 2184
+
+N_STATIC_EVALS = 2184
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9089 seconds out of
+
+1
+
+WHITE's move: the K at (7, 5) to (7, 4).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 13: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - p p - - 
+- - - - - - - - 
+- p - - - - - - 
+- - - - - - p - 
+- - - - - - - p 
+P P P P P - P P 
+F L I W K - - I 
+BLACK's move
+
+Time used in makeMove: 0.9527 seconds out of
+
+1
+
+BLACK's move: the p at (5, 7) to (1, 7).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 14: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - p p - p 
+- - - - - - - - 
+- p - - - - - - 
+- - - - - - p - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W K - - I 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 2001
+
+N_STATIC_EVALS = 2001
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9072 seconds out of
+
+1
+
+WHITE's move: the I at (7, 7) to (7, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 15: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - p p - p 
+- - - - - - - - 
+- p - - - - - - 
+- - - - - - p - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W K I - - 
+BLACK's move
+
+Time used in makeMove: 1.0029 seconds out of
+
+1
+
+BLACK's move: the p at (1, 5) to (6, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 16: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - p - - p 
+- - - - - - - - 
+- p - - - - - - 
+- - - - - - p - 
+- - - - - - - - 
+P P P P P p P P 
+F L I W K I - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 2219
+
+N_STATIC_EVALS = 2219
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9133 seconds out of
+
+1
+
+WHITE's move: the I at (7, 5) to (7, 7).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 17: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - p - - p 
+- - - - - - - - 
+- p - - - - - - 
+- - - - - - p - 
+- - - - - - - - 
+P P P P P p P P 
+F L I W K - - I 
+BLACK's move
+
+Time used in makeMove: 0.9279 seconds out of
+
+1
+
+BLACK's move: the p at (1, 4) to (4, 4).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 18: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - - - - p 
+- - - - - - - - 
+- p - - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P p P P 
+F L I W K - - I 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 2320
+
+N_STATIC_EVALS = 2320
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9179 seconds out of
+
+1
+
+WHITE's move: the I at (7, 7) to (7, 6).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 19: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - - - - p 
+- - - - - - - - 
+- p - - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P p P P 
+F L I W K - I - 
+BLACK's move
+
+Time used in makeMove: 0.9969 seconds out of
+
+1
+
+BLACK's move: the p at (6, 5) to (1, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 20: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - - p - p 
+- - - - - - - - 
+- p - - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W K - I - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 2518
+
+N_STATIC_EVALS = 2518
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9142 seconds out of
+
+1
+
+WHITE's move: the I at (7, 6) to (3, 2).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 21: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - - p - p 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W K - - - 
+BLACK's move
+
+Time used in makeMove: 0.9839 seconds out of
+
+1
+
+BLACK's move: the p at (1, 5) to (7, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 22: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - - - - p 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W K p - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 3532
+
+N_STATIC_EVALS = 3532
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9109 seconds out of
+
+1
+
+WHITE's move: the K at (7, 4) to (7, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 23: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - - - - p 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W - K - - 
+BLACK's move
+
+Time used in makeMove: 0.9933 seconds out of
+
+1
+
+BLACK's move: the p at (1, 7) to (1, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 24: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - - p - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W - K - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 3226
+
+N_STATIC_EVALS = 3226
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9343 seconds out of
+
+1
+
+WHITE's move: the K at (7, 5) to (7, 4).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 25: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - - p - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W K - - - 
+BLACK's move
+
+Time used in makeMove: 0.9577 seconds out of
+
+1
+
+BLACK's move: the p at (1, 5) to (1, 4).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 26: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - p - - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W K - - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 2944
+
+N_STATIC_EVALS = 2944
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9136 seconds out of
+
+1
+
+WHITE's move: the K at (7, 4) to (7, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 27: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - p - - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W - K - - 
+BLACK's move
+
+Time used in makeMove: 0.9472 seconds out of
+
+1
+
+BLACK's move: the p at (1, 4) to (1, 7).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 28: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - - - - p 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P - P P 
+F L I W - K - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 3472
+
+N_STATIC_EVALS = 3472
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9084 seconds out of
+
+1
+
+WHITE's move: the K at (7, 5) to (6, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 29: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - - - - p 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I W - - - - 
+BLACK's move
+
+Time used in makeMove: 1.0057 seconds out of
+
+1
+
+BLACK's move: the p at (1, 7) to (1, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 30: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - - p - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I W - - - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 3297
+
+N_STATIC_EVALS = 3297
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9180 seconds out of
+
+1
+
+WHITE's move: the W at (7, 3) to (7, 7).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 31: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - - p - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I - - - - W 
+BLACK's move
+
+Time used in makeMove: 0.9388 seconds out of
+
+1
+
+BLACK's move: the p at (1, 5) to (1, 4).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 32: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - p - - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I - - - - W 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 3469
+
+N_STATIC_EVALS = 3469
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9208 seconds out of
+
+1
+
+WHITE's move: the W at (7, 7) to (7, 4).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 33: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - p - - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I - W - - - 
+BLACK's move
+
+Time used in makeMove: 1.0056 seconds out of
+
+1
+
+BLACK's move: the p at (1, 4) to (1, 7).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 34: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - - - - p 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I - W - - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 3556
+
+N_STATIC_EVALS = 3556
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9089 seconds out of
+
+1
+
+WHITE's move: the W at (7, 4) to (7, 6).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 35: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - - - - p 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I - - - W - 
+BLACK's move
+
+Time used in makeMove: 0.9204 seconds out of
+
+1
+
+BLACK's move: the p at (1, 7) to (1, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 36: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - - p - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I - - - W - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 3431
+
+N_STATIC_EVALS = 3431
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9143 seconds out of
+
+1
+
+WHITE's move: the W at (7, 6) to (7, 3).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 37: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - - p - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I W - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9006 seconds out of
+
+1
+
+BLACK's move: the p at (1, 5) to (1, 4).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 38: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - p - - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I W - - - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 3197
+
+N_STATIC_EVALS = 3197
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9302 seconds out of
+
+1
+
+WHITE's move: the W at (7, 3) to (7, 7).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 39: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - p - - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I - - - - W 
+BLACK's move
+
+Time used in makeMove: 0.9132 seconds out of
+
+1
+
+BLACK's move: the p at (1, 4) to (1, 7).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 40: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - - - - p 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I - - - - W 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 3858
+
+N_STATIC_EVALS = 3858
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9324 seconds out of
+
+1
+
+WHITE's move: the W at (7, 7) to (7, 3).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 41: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - - - - p 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I W - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9460 seconds out of
+
+1
+
+BLACK's move: the p at (1, 7) to (1, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 42: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - - p - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I W - - - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 3297
+
+N_STATIC_EVALS = 3297
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9122 seconds out of
+
+1
+
+WHITE's move: the W at (7, 3) to (7, 7).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 43: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - - p - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I - - - - W 
+BLACK's move
+
+Time used in makeMove: 0.9099 seconds out of
+
+1
+
+BLACK's move: the p at (1, 5) to (1, 4).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 44: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - p - - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I - - - - W 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 3469
+
+N_STATIC_EVALS = 3469
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9159 seconds out of
+
+1
+
+WHITE's move: the W at (7, 7) to (7, 4).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 45: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - p - - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I - W - - - 
+BLACK's move
+
+Time used in makeMove: 0.9435 seconds out of
+
+1
+
+BLACK's move: the p at (1, 4) to (1, 7).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 46: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - - - - p 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I - W - - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 3556
+
+N_STATIC_EVALS = 3556
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9124 seconds out of
+
+1
+
+WHITE's move: the W at (7, 4) to (7, 3).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 47: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - - - - p 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I W - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9062 seconds out of
+
+1
+
+BLACK's move: the p at (1, 7) to (1, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 48: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - - p - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I W - - - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 3297
+
+N_STATIC_EVALS = 3297
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9195 seconds out of
+
+1
+
+WHITE's move: the W at (7, 3) to (7, 6).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 49: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - - p - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I - - - W - 
+BLACK's move
+
+Time used in makeMove: 0.9039 seconds out of
+
+1
+
+BLACK's move: the p at (1, 5) to (1, 4).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 50: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - p - - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I - - - W - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 3331
+
+N_STATIC_EVALS = 3331
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9078 seconds out of
+
+1
+
+WHITE's move: the W at (7, 6) to (7, 3).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 51: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - p - - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I W - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9500 seconds out of
+
+1
+
+BLACK's move: the p at (1, 4) to (1, 7).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 52: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - - - - p 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I W - - - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 3558
+
+N_STATIC_EVALS = 3558
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9328 seconds out of
+
+1
+
+WHITE's move: the W at (7, 3) to (7, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 53: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - - - - p 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I - - W - - 
+BLACK's move
+
+Time used in makeMove: 0.9193 seconds out of
+
+1
+
+BLACK's move: the p at (1, 7) to (1, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 54: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - - p - - 
+- - - - - - - - 
+- p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+P P P P P K P P 
+F L I - - W - - 
+WHITE's move
+
+Depth = 3
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 51
+
+N_STATIC_EVALS = 51
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9118 seconds out of
+
+1
+
+WHITE's move: the P at (6, 0) to (3, 0).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 55: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - - p - - 
+- - - - - - - - 
+P - I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+- P P P P K P P 
+F L I - - W - - 
+BLACK's move
+
+Time used in makeMove: 0.9472 seconds out of
+
+1
+
+BLACK's move: the p at (1, 5) to (1, 4).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 56: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - p - - - 
+- - - - - - - - 
+P - I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+- P P P P K P P 
+F L I - - W - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 3698
+
+N_STATIC_EVALS = 3698
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9077 seconds out of
+
+1
+
+WHITE's move: the W at (7, 5) to (7, 3).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 57: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - p - - - 
+- - - - - - - - 
+P - I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+- P P P P K P P 
+F L I W - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9670 seconds out of
+
+1
+
+BLACK's move: the p at (1, 4) to (1, 6).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 58: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - - - p - 
+- - - - - - - - 
+P - I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+- P P P P K P P 
+F L I W - - - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 3610
+
+N_STATIC_EVALS = 3610
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9146 seconds out of
+
+1
+
+WHITE's move: the L at (7, 1) to (6, 0).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 59: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - - - p - 
+- - - - - - - - 
+P - I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+L P P P P K P P 
+F - I W - - - - 
+BLACK's move
+
+Time used in makeMove: 1.0054 seconds out of
+
+1
+
+BLACK's move: the p at (1, 6) to (2, 6).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 60: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p p - - - - - 
+- - - - - - p - 
+P - I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+L P P P P K P P 
+F - I W - - - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 4570
+
+N_STATIC_EVALS = 4570
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9185 seconds out of
+
+1
+
+WHITE's move: the W at (7, 3) to (7, 6).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 61: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - - - - - 
+- - - - - - p - 
+P - I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+L P P P P K P P 
+F - I - - - W - 
+BLACK's move
+
+Time used in makeMove: 0.9170 seconds out of
+
+1
+
+BLACK's move: the p at (1, 2) to (1, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 62: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p p - - - p - - 
+- - - - - - p - 
+P - I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+L P P P P K P P 
+F - I - - - W - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 4981
+
+N_STATIC_EVALS = 4981
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9237 seconds out of
+
+1
+
+WHITE's move: the W at (7, 6) to (7, 4).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 63: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p - - - p - - 
+- - - - - - p - 
+P - I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+L P P P P K P P 
+F - I - W - - - 
+BLACK's move
+
+Time used in makeMove: 1.0062 seconds out of
+
+1
+
+BLACK's move: the p at (1, 1) to (3, 1).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 64: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p - - - - p - - 
+- - - - - - p - 
+P p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+L P P P P K P P 
+F - I - W - - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 5109
+
+N_STATIC_EVALS = 5109
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9180 seconds out of
+
+1
+
+WHITE's move: the W at (7, 4) to (7, 3).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 65: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p - - - - p - - 
+- - - - - - p - 
+P p I - - - - - 
+- - - - p - p - 
+- - - - - - - - 
+L P P P P K P P 
+F - I W - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9183 seconds out of
+
+1
+
+BLACK's move: the p at (4, 6) to (3, 6).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 66: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p - - - - p - - 
+- - - - - - p - 
+P p I - - - p - 
+- - - - p - - - 
+- - - - - - - - 
+L P P P P K P P 
+F - I W - - - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 5152
+
+N_STATIC_EVALS = 5152
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9204 seconds out of
+
+1
+
+WHITE's move: the W at (7, 3) to (7, 7).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 67: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p - - - - p - - 
+- - - - - - p - 
+P p I - - - p - 
+- - - - p - - - 
+- - - - - - - - 
+L P P P P K P P 
+F - I - - - - W 
+BLACK's move
+
+Time used in makeMove: 0.9845 seconds out of
+
+1
+
+BLACK's move: the p at (3, 6) to (3, 3).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 68: Move is by BLACK
+
+Newman says: Your turn!
+
+c l i w k i l f 
+p - - - - p - - 
+- - - - - - p - 
+P p - p - - - - 
+- - - - p - - - 
+- - - - - - - - 
+L P P P P K P P 
+F - I - - - - W 
+WHITE's move
+
+Depth = 3
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 48
+
+N_STATIC_EVALS = 48
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9173 seconds out of
+
+1
+
+WHITE's move: the L at (6, 0) to (2, 4).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 69: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p - - - - p - - 
+- - - - L - p - 
+P p - - - - - - 
+- - - - p - - - 
+- - - - - - - - 
+- P P P P K P P 
+F - I - - - - W 
+BLACK's move
+
+Time used in makeMove: 1.0041 seconds out of
+
+1
+
+BLACK's move: the c at (0, 0) to (2, 2).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 70: Move is by BLACK
+
+Newman says: Your turn!
+
+- l i w k i l f 
+p - - - - p - - 
+- - c - - - p - 
+P p - - - - - - 
+- - - - p - - - 
+- - - - - - - - 
+- P P P P K P P 
+F - I - - - - W 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 4935
+
+N_STATIC_EVALS = 4935
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9144 seconds out of
+
+1
+
+WHITE's move: the W at (7, 7) to (7, 3).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 71: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+- l i w k i l f 
+p - - - - p - - 
+- - c - - - p - 
+P p - - - - - - 
+- - - - p - - - 
+- - - - - - - - 
+- P P P P K P P 
+F - I W - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9470 seconds out of
+
+1
+
+BLACK's move: the p at (3, 1) to (3, 7).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 72: Move is by BLACK
+
+Newman says: Your turn!
+
+- l i w k i l f 
+p - - - - p - - 
+- - c - - - p - 
+P - - - - - - p 
+- - - - p - - - 
+- - - - - - - - 
+- P P P P K P P 
+F - I W - - - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 5266
+
+N_STATIC_EVALS = 5266
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9148 seconds out of
+
+1
+
+WHITE's move: the W at (7, 3) to (7, 5).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 73: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+- l i w k i l f 
+p - - - - p - - 
+- - c - - - p - 
+P - - - - - - p 
+- - - - p - - - 
+- - - - - - - - 
+- P P P P K P P 
+F - I - - W - - 
+BLACK's move
+
+Time used in makeMove: 0.9959 seconds out of
+
+1
+
+BLACK's move: the l at (0, 1) to (7, 1).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 74: Move is by BLACK
+
+Newman says: Your turn!
+
+- - i w k i l f 
+p - - - - p - - 
+- - c - - - p - 
+P - - - - - - p 
+- - - - p - - - 
+- - - - - - - - 
+- - P P P K P P 
+F l I - - W - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 5134
+
+N_STATIC_EVALS = 5134
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9117 seconds out of
+
+1
+
+WHITE's move: the W at (7, 5) to (7, 6).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 75: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+- - i w k i l f 
+p - - - - p - - 
+- - c - - - p - 
+P - - - - - - p 
+- - - - p - - - 
+- - - - - - - - 
+- - P P P K P P 
+F l I - - - W - 
+BLACK's move
+
+Time used in makeMove: 0.9859 seconds out of
+
+1
+
+BLACK's move: the p at (4, 4) to (4, 3).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 76: Move is by BLACK
+
+Newman says: Your turn!
+
+- - i w k i l f 
+p - - - - p - - 
+- - c - - - p - 
+P - - - - - - p 
+- - - p - - - - 
+- - - - - - - - 
+- - P P P K P P 
+F l I - - - W - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 4654
+
+N_STATIC_EVALS = 4654
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9060 seconds out of
+
+1
+
+WHITE's move: the W at (7, 6) to (7, 4).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 77: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+- - i w k i l f 
+p - - - - p - - 
+- - c - - - p - 
+P - - - - - - p 
+- - - p - - - - 
+- - - - - - - - 
+- - P P P K P P 
+F l I - W - - - 
+BLACK's move
+
+Time used in makeMove: 0.9438 seconds out of
+
+1
+
+BLACK's move: the p at (4, 3) to (4, 0).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 78: Move is by BLACK
+
+Newman says: Your turn!
+
+- - i w k i l f 
+p - - - - p - - 
+- - c - - - p - 
+P - - - - - - p 
+p - - - - - - - 
+- - - - - - - - 
+- - P P P K P P 
+F l I - W - - - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 4839
+
+N_STATIC_EVALS = 4839
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9099 seconds out of
+
+1
+
+WHITE's move: the W at (7, 4) to (7, 3).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 79: Move is by WHITE
+
+Stephen says: I'll think harder in some future game. Here's my move
+
+- - i w k i l f 
+p - - - - p - - 
+- - c - - - p - 
+P - - - - - - p 
+p - - - - - - - 
+- - - - - - - - 
+- - P P P K P P 
+F l I W - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9090 seconds out of
+
+1
+
+BLACK's move: the i at (0, 2) to (2, 0).
+
+Calling the move validation service.
+
+Illegal move by BLACK
+
+Given end state does not correspond to any of the 10 valid moves for piece i at c8.
+
+BLACK's proposed, new state is:
+
+- - - w k i l f 
+p - - - - p - - 
+i - c - - - p - 
+- - - - - - - p 
+p - - - - - - - 
+- - - - - - - - 
+- - P P P K P P 
+F l I W - - - - 
+WHITE's move
+
+Game over.
+
+Congratulations to the winner: WHITE
+

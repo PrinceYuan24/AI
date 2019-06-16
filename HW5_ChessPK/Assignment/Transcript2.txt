@@ -1,0 +1,251 @@
+**** Baroque Chess Gamemaster v1.0-BETA *****
+
+The Gamemaster says, "Players, introduce yourselves."
+
+ (Playing WHITE:) I'm Prince-Stephen, a newbie Baroque Chess agent. I am created by Ye Jin and Ziyuan Wang. UW NETID yjin2 and wangzi. I am a character to play Baroque Chess
+
+ (Playing BLACK:) My name is Thanos, my designer is Jingqiang Wang and Junhao Zeng
+
+
+The Gamemaster says, "Let's Play!"
+
+The initial state is...
+
+c l i w k i l f 
+p p p p p p p p 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P P P P 
+F L I W K I L C 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 977
+
+N_STATIC_EVALS = 977
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9333 seconds out of
+
+1
+
+WHITE's move: the P at (6, 7) to (2, 7).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 1: Move is by WHITE
+
+Prince-Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p p p p p p 
+- - - - - - - P 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P P P - 
+F L I W K I L C 
+BLACK's move
+
+ the three value:
+
+1693
+
+1596
+
+75
+
+ply:
+
+3
+
+Time used in makeMove: 0.9015 seconds out of
+
+1
+
+BLACK's move: the p at (1, 3) to (2, 3).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 2: Move is by BLACK
+
+Thanos says: I am the best.
+
+c l i w k i l f 
+p p p - p p p p 
+- - - p - - - P 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P P P - 
+F L I W K I L C 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 1680
+
+N_STATIC_EVALS = 1680
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9099 seconds out of
+
+1
+
+WHITE's move: the C at (7, 7) to (3, 7).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 3: Move is by WHITE
+
+Prince-Stephen says: I'll think harder in some future game. Here's my move
+
+c l i w k i l f 
+p p p - p p p p 
+- - - p - - - P 
+- - - - - - - C 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P P P - 
+F L I W K I L - 
+BLACK's move
+
+ the three value:
+
+739
+
+674
+
+54
+
+ply:
+
+3
+
+Time used in makeMove: 0.9025 seconds out of
+
+1
+
+BLACK's move: the i at (0, 2) to (1, 3).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 4: Move is by BLACK
+
+Thanos says: I am the best.
+
+c l - w k i l f 
+p p p i p p p p 
+- - - p - - - P 
+- - - - - - - C 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P P P - 
+F L I W K I L - 
+WHITE's move
+
+Depth = 4
+
+CURRENT_STATE_STATIC_VAL = inf
+
+N_STATES_EXPANDED = 1968
+
+N_STATIC_EVALS = 1968
+
+N_CUTOFFS = 0
+
+Time used in makeMove: 0.9104 seconds out of
+
+1
+
+WHITE's move: the L at (7, 6) to (7, 7).
+
+Calling the move validation service.
+
+valid move
+
+valid move
+
+Turn 5: Move is by WHITE
+
+Prince-Stephen says: I'll think harder in some future game. Here's my move
+
+c l - w k i l f 
+p p p i p p p p 
+- - - p - - - P 
+- - - - - - - C 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P P P - 
+F L I W K I - L 
+BLACK's move
+
+ the three value:
+
+263
+
+209
+
+49
+
+ply:
+
+3
+
+Time used in makeMove: 0.9084 seconds out of
+
+1
+
+The moveAndState value did not have the proper form of [move, newState] or
+
+the move did not have the proper form such as ((3, 7), (5, 7)).
+
+BLACK's move: the - at (7, 6) to (7, 7).
+
+Calling the move validation service.
+
+Illegal move by BLACK
+
+No valid moves for piece: 0 at g1.
+
+BLACK's proposed, new state is:
+
+c l - w k i l f 
+p p p i p p p p 
+- - - p - - - P 
+- - - - - - - C 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P P P - 
+F L I W K I - L 
+BLACK's move
+
+Game over.
+
+Congratulations to the winner: WHITE
+
